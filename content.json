@@ -1,0 +1,534 @@
+{
+  "site": {
+    "name": "Hannahuel",
+    "nickname": "Hannah",
+    "surname": "Grogan",
+    "eyebrow": "MLPD degree, December 2026",
+    "intro": "I'm 22, and this December I will hold a master's degree in land and property development from Texas A&M. I move fast, I learn faster, and I'm ready to turn raw land into feasible, well-documented deals, with a writer's eye for every detail.",
+    "tags": [
+      "Houston, TX",
+      "Hybrid & travel-ready",
+      "Land · Public sector"
+    ],
+    "photo": "headshot.jpg",
+    "email": "hannahkibble11@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/hannahuel/",
+    "resume": "files/Hannahuel-Grogan-Resume.pdf",
+    "aboutTitle": "Howdy, I'm Hannah.",
+    "aboutSub": "Hannahuel (Hannah) Grogan · Houston, TX",
+    "about": [
+      "I am 22, and in December 2026 I will finish my **Master of Land & Property Development** at Texas A&M. I didn't take the long way around: I finished my bachelor's in December 2024 and started graduate school the very next semester, because I already knew what I wanted to build.",
+      "I came to real estate through words. I earned a **B.A. in English** at the University of Houston, where I also tutored and graded for ESL students through Phi Beta Delta and earned my TEAL certification. That background taught me to read closely, research carefully, and explain complicated things plainly, which turns out to be most of what a land deal asks of you.",
+      "Today I am completing a **Master of Land & Property Development** at Texas A&M. In LDEV 651 I reviewed and revised easements, entitlements, and deeds, and evaluated ventures through capital structure and feasibility. For my capstone I am structuring a **1,500-acre mixed-use development** in Laredo for a client, pulling live market data into an analysis of what drives the project's value.",
+      "This summer I interned with **Buzzy Development/Penz Homes** in Dallas, working on deal structuring, budgets, marketing, and researching modular and prefabricated construction. Before that, more than a year as a Fleet Agent at American Airlines taught me how to stay precise when timelines are tight and the rules are strict.",
+      "Next, I am looking for roles in **land and master-planned community development**, as a **development associate**, or with the public agencies and consultants who shape how places grow. I am based in Houston, value hybrid flexibility, and am glad to travel for the work. I bring the energy of someone at the start of her career and the discipline of someone who has already been working hard to get here: I am eager to learn from experienced developers, quick to take on responsibility, and ready to contribute from day one.",
+      "Off the clock you will find me training for my next running event, assembling a puzzle, or satisfying my sweet tooth with a new dessert recipe."
+    ],
+    "stats": [
+      {
+        "value": "22",
+        "suffix": "",
+        "label": "Years old, with a master's degree by December 2026"
+      },
+      {
+        "value": "1,500",
+        "suffix": "",
+        "label": "Acres structured in the Laredo capstone"
+      },
+      {
+        "value": "3.7",
+        "suffix": "",
+        "label": "Graduate GPA, Texas A&M MLPD"
+      },
+      {
+        "value": "13",
+        "suffix": " mo",
+        "label": "Coordinating regulated operations at American Airlines, alongside grad school"
+      }
+    ]
+  },
+  "pins": [
+    {
+      "id": "capstone",
+      "cat": "Projects",
+      "title": "1,500-Acre Mixed-Use Development",
+      "meta": "Graduate Capstone · Laredo, TX · Fall 2026",
+      "cover": {
+        "type": "plan",
+        "bg": "c-cream c-grid"
+      },
+      "overview": [
+        "For my MLPD capstone my team and I created and structured a 1,500-acre mixed-use real estate development deal for a client in Laredo, Texas, carrying a large master-planned site from concept toward a defensible plan."
+      ],
+      "bullets": [
+        "Created and structured a 1,500-acre mixed-use development deal for a client",
+        "Synthesized real-time data and events from many sources and judged their impact on the project and the real estate market",
+        "Analyzed the investment opportunity by identifying its drivers of value and quality"
+      ],
+      "files": [
+        {
+          "file": "Palo-Blanco-Ranch-Land-Plan-Overview.pdf",
+          "label": "Land plan"
+        }
+      ],
+      "thumb": "files/Screenshot-2026-10-26-at-1.05.03-AM.jpg"
+    },
+    {
+      "id": "acres",
+      "cat": "Projects",
+      "title": "1,500 acres, one deal",
+      "meta": "Capstone at a glance",
+      "opens": "capstone",
+      "cover": {
+        "type": "number",
+        "bg": "c-butter",
+        "ratio": "1/1",
+        "num": "1,500",
+        "sub": "acres · Laredo, TX"
+      }
+    },
+    {
+      "id": "comp-finance",
+      "cat": "MLPD Outcomes",
+      "title": "Finance",
+      "meta": "Program competency 01",
+      "cover": {
+        "type": "label",
+        "bg": "c-brown",
+        "big": "Finance",
+        "small": "01"
+      },
+      "overview": [
+        "The Finance outcome asks that I can model a development and structure a deal, and my DCF practice is where that comes together. That means building the financial case from the land up: phasing, budgets, and the drivers of value and quality that make an investment worth pursuing."
+      ],
+      "files": [
+        {
+          "file": "668-DCF-Final-Project_Kibble.pdf",
+          "label": "DCF Final "
+        }
+      ],
+      "bullets": [],
+      "thumb": "files/Screenshot-2026-10-26-at-12.17.33-AM.jpg"
+    },
+    {
+      "id": "buzzy",
+      "cat": "Experience",
+      "title": "Real Estate Development Intern",
+      "meta": "Buzzy Development · Dallas · Summer 2026",
+      "cover": {
+        "type": "modular",
+        "bg": "c-butter-lt"
+      },
+      "overview": [
+        "A summer on a development team, with real-world exposure to the end-to-end development lifecycle."
+      ],
+      "bullets": [
+        "Gained hands-on exposure to the full development lifecycle",
+        "Experienced deal structuring, budgeting, and development strategy first-hand",
+        "Researched modular and prefabricated construction trends and provided insight for decisions"
+      ],
+      "files": [
+        {
+          "file": "buzzy-modular-research.pdf",
+          "label": "Modular research"
+        }
+      ],
+      "thumb": "files/Screenshot-2026-10-26-at-12.44.01-AM.jpg"
+    },
+    {
+      "id": "philosophy",
+      "cat": "Writing",
+      "title": "My development philosophy",
+      "meta": "What I believe good development looks like",
+      "cover": {
+        "type": "quote",
+        "bg": "c-brown",
+        "ratio": "4/5",
+        "text": "Read the site, the market, and the paperwork closely. End with a place people are glad was built."
+      },
+      "overview": [
+        "Good development starts with reading the site, the market, and the paperwork closely, and ends with a place people are glad was built.",
+        "I came to real estate from English, so I trust close reading. A deed, an easement, or a utility district agreement can quietly decide whether a project works, and I would rather find that out in due diligence than at closing. I try to bring the same care to the model: name the assumptions, test them against real data, and change course when the facts change.",
+        "I believe the best projects create durable value for the community around them, not only for the people who fund them. Large sites like the 1,500 acres in my capstone shape how people live for decades, so the mix of uses, open space, and infrastructure matter as much as the return.",
+        "Most of all, I believe in clear communication. A deal that the team, the lender, and the community understand the same way is a deal that holds together."
+      ]
+    },
+    {
+      "id": "mud",
+      "cat": "Projects",
+      "title": "Development Feasibility",
+      "meta": "Core skills",
+      "cover": {
+        "type": "sheet",
+        "bg": "c-cream"
+      },
+      "overview": [
+        "Feasibility work answers the first question on any site: should this project move forward at all? My team and I created a land book where we evaluated site constraints, market conditions, and infrastructure requirements to identify development risks and support project feasibility decisions."
+      ],
+      "bullets": [
+        "Financial modeling in Excel",
+        "Feasibility and market analysis",
+        "MUD analysis",
+        "Site Constraints"
+      ],
+      "files": [
+        {
+          "file": "668-Final-Project_Kibble.pdf",
+          "label": "668 Final Project Kibble"
+        }
+      ],
+      "thumb": "files/Screenshot-2026-10-26-at-12.00.02-AM.png"
+    },
+    {
+      "id": "comp-feas",
+      "cat": "MLPD Outcomes",
+      "title": "Feasibility",
+      "meta": "Program competency 02",
+      "cover": {
+        "type": "label",
+        "bg": "c-butter",
+        "big": "Feasibility",
+        "small": "02"
+      },
+      "overview": [
+        "Feasibility is the question of whether a project should move forward at all. In my 668 class we analyzed competing residential developments and prepared pricing comparisons to support proposed sales prices and preliminary development feasibility."
+      ],
+      "files": [
+        {
+          "file": "668-Competitive-Price-Graph-Kibble.pdf",
+          "label": "Competitive price graph"
+        }
+      ],
+      "bullets": [],
+      "thumb": "files/Screenshot-2026-10-26-at-12.28.26-AM.jpg"
+    },
+    {
+      "id": "english",
+      "cat": "Writing",
+      "title": "The English advantage",
+      "meta": "B.A. English, University of Houston",
+      "cover": {
+        "type": "aa",
+        "bg": "c-butter-lt"
+      },
+      "overview": [
+        "My B.A. in English trained the skills development work leans on every day, especially once a project leaves the spreadsheet and goes in front of a client, a city, or a lender."
+      ],
+      "bullets": [
+        "Strong writing: turning analysis into memos, market studies, and presentations a client or council can act on",
+        "Analytical reading: close reading of deeds, easements, agreements, and regulations to find what actually governs a site",
+        "Attention to detail: in contracts, MUD documents, and regulated operations, the one wrong word is where the risk hides",
+        "Risk & problem solving: building an argument from evidence, the same work as weighing market events against a project's assumptions"
+      ],
+      "files": [
+        {
+          "file": "Poorvu-Analysis.pdf",
+          "label": "Poorvu Analysis"
+        }
+      ]
+    },
+    {
+      "id": "aa",
+      "cat": "Experience",
+      "title": "Fleet Agent",
+      "meta": "American Airlines · Dallas · 2025–2026",
+      "cover": {
+        "type": "plane",
+        "bg": "c-sand"
+      },
+      "overview": [
+        "More than a year coordinating airport operations, where timelines are tight and the rules are strict. All the while pursuing my MLPD degree."
+      ],
+      "bullets": [
+        "Coordinated time-sensitive operations across multiple airport teams while adhering to policy",
+        "Managed competing priorities and changing operational conditions",
+        "Maintained accurate documentation and followed detailed regulatory and safety procedures"
+      ],
+      "files": [],
+      "thumb": "files/Screenshot-2026-10-26-at-12.45.51-AM.jpg"
+    },
+    {
+      "id": "comp-law",
+      "cat": "MLPD Outcomes",
+      "title": "Law & Regulation",
+      "meta": "Program competency 03",
+      "cover": {
+        "type": "label",
+        "bg": "c-tan",
+        "big": "Law & Regulation",
+        "small": "03"
+      },
+      "overview": [
+        "In LDEV 651, Property Development Agreements and Regulation, I reviewed and modified easements, entitlements, and deeds for a range of real estate projects. My English degree is an advantage here: careful reading and precise writing are exactly what contract review demands. Reading those documents closely, and redrafting them, showed me how much of a project's risk and value is decided by the agreements underneath it."
+      ],
+      "files": [
+        {
+          "file": "LOI-DONE-HANNAH.pdf",
+          "label": "LOI sample"
+        }
+      ],
+      "bullets": []
+    },
+    {
+      "id": "coursework",
+      "cat": "Coursework",
+      "title": "MLPD coursework",
+      "meta": "Texas A&M · GPA 3.7",
+      "cover": {
+        "type": "codes",
+        "bg": "c-cream",
+        "ratio": "3/4"
+      },
+      "overview": [
+        "Master of Land & Property Development, Texas A&M University, graduating December 2026 with a 3.7 GPA."
+      ],
+      "bullets": [
+        "LDEV 650 · Land and Property Development Analysis",
+        "LDEV 651 · Property Development Agreements and Regulation",
+        "LDEV 660 · Fundamentals of Entrepreneurial Real Estate",
+        "LDEV 661 · Development and Environment",
+        "LDEV 663 · Introduction to Project Management",
+        "LDEV 664 · Market Analysis for Development",
+        "LDEV 667 · Design and Development Economy",
+        "LDEV 668 · Land Development Practice",
+        "LDEV 669 · Income Property Land Development",
+        "LDEV 684 · Professional Internship (Buzzy Development)",
+        "LDEV 687 · Development Feasibility & Design I",
+        "LDEV 688 · Development Feasibility & Design II (Capstone)"
+      ],
+      "files": [
+        {
+          "file": "coursework-sample.pdf",
+          "label": "Coursework sample"
+        }
+      ]
+    },
+    {
+      "id": "gpa",
+      "cat": "Credentials",
+      "title": "3.7 graduate GPA",
+      "meta": "Master of Land & Property Development",
+      "cover": {
+        "type": "number",
+        "bg": "c-brown",
+        "ratio": "1/1",
+        "num": "3.7",
+        "sub": "MLPD GPA"
+      },
+      "overview": [
+        "Master of Land & Property Development, Texas A&M University, College Station, graduating December 2026 with a 3.7 GPA."
+      ]
+    },
+    {
+      "id": "comp-dev",
+      "cat": "MLPD Outcomes",
+      "title": "Property Development",
+      "meta": "Program competency 04",
+      "cover": {
+        "type": "label",
+        "bg": "c-sand",
+        "big": "Property Development",
+        "small": "04"
+      },
+      "overview": [
+        "The Property Development outcome asks that I can describe and manage a project from concept to completion. I evaluated real estate ventures through capital structuring, feasibility analysis, and the development process, and the capstone asked me to carry a large master-planned site through that whole arc."
+      ],
+      "files": [
+        {
+          "file": "Site_Analysis_Report_Shell.docx.pdf",
+          "label": "Site Analysis"
+        }
+      ],
+      "bullets": []
+    },
+    {
+      "id": "modular",
+      "cat": "Projects",
+      "title": "Modular & prefab construction research",
+      "meta": "Buzzy Development · 2026",
+      "cover": {
+        "type": "sheet",
+        "bg": "c-butter",
+        "small": "RESEARCH"
+      },
+      "overview": [
+        "During my internship at Buzzy Development I developed a master floor plan matrix to organize residential product types, building assignments, unit quantities, and design specifications. Additionally, I consolidated floor plan and pricing information into a central reference for development planning and sales preparation."
+      ],
+      "files": [
+        {
+          "file": "West_Point_Hills_Master_Floor_Plan_Matrix.xlsm---Plan-Matrix.pdf",
+          "label": "West Point Hills Master Floor Plan Matrix.xlsm   Plan Matrix"
+        }
+      ],
+      "bullets": [],
+      "thumb": "files/Screenshot-2026-10-26-at-12.12.25-AM.jpg"
+    },
+    {
+      "id": "certs",
+      "cat": "Credentials",
+      "title": "Zonda & TEAL certifications",
+      "meta": "Professional certifications",
+      "cover": {
+        "type": "seal",
+        "bg": "c-butter-lt",
+        "big": "Zonda+ TEAL"
+      },
+      "bullets": [],
+      "files": [
+        {
+          "file": "Zonda-Cert.png",
+          "label": "Zonda Cert"
+        }
+      ],
+      "overview": [
+        "Enterprise Training Certification, Zonda (housing market data and analytics)\nTeaching English as an Additional Language (TEAL)"
+      ]
+    },
+    {
+      "id": "comp-steward",
+      "cat": "MLPD Outcomes",
+      "title": "Stewardship",
+      "meta": "Program competency 05",
+      "cover": {
+        "type": "label",
+        "bg": "c-brown",
+        "big": "Stewardship",
+        "small": "05"
+      },
+      "overview": [
+        "A 1,500-acre development in Laredo will shape a community for decades. Planning at that scale made stewardship concrete for me: the mix of uses, the open space, and the infrastructure decide whether a project serves the people who live around it, not only the people who invest in it.",
+        "My background in education and volunteer work keeps that lens in front of me. I want the projects I work on to leave their surroundings better than they found them."
+      ],
+      "files": [
+        {
+          "file": "Palo-Blanco-Ranch-Land-Plan-Overview-2.pdf",
+          "label": "Land Plan Overview"
+        }
+      ],
+      "bullets": []
+    },
+    {
+      "id": "reda",
+      "cat": "Experience",
+      "title": "Real Estate Developers Association",
+      "meta": "Texas A&M · 2025–2026",
+      "cover": {
+        "type": "seal",
+        "bg": "c-sand",
+        "big": "REDA"
+      },
+      "overview": [
+        "Networking events, guest lectures, and industry-focused events that supplement my MLPD coursework."
+      ],
+      "files": [],
+      "bullets": [],
+      "thumb": "files/Screenshot-2026-10-26-at-12.47.57-AM.jpg"
+    },
+    {
+      "id": "pbd",
+      "cat": "Experience",
+      "title": "Phi Beta Delta",
+      "meta": "University of Houston · 2023–2024",
+      "cover": {
+        "type": "label",
+        "bg": "c-tan",
+        "big": "ΦΒΔ",
+        "small": "HONOR SOCIETY"
+      },
+      "bullets": [
+        "Contributed time and research to campus initiatives that support global learning",
+        "Assisted with international education by grading, tutoring, and supporting students in ESL programs"
+      ],
+      "files": [],
+      "overview": [],
+      "thumb": "files/Screenshot-2026-10-26-at-12.49.40-AM.jpg"
+    },
+    {
+      "id": "drive",
+      "cat": "About",
+      "title": "Two degrees by 22",
+      "meta": "Why I don't wait",
+      "cover": {
+        "type": "number",
+        "bg": "c-brown",
+        "big": "22",
+        "small": "two degrees by December"
+      },
+      "overview": [
+        "I finished my bachelor's degree and started my master's the very next semester, and I worked while I studied. I don't wait for the right moment to start; I make the most of the one I'm in."
+      ],
+      "bullets": [
+        "B.A. in English, University of Houston, December 2024 (GPA 3.6)",
+        "Started Texas A&M's MLPD program the following semester",
+        "13 months at American Airlines while completing graduate coursework",
+        "Real estate development internship at Buzzy Development, summer 2026",
+        "Master of Land & Property Development, December 2026 (GPA 3.7)"
+      ],
+      "files": []
+    },
+    {
+      "id": "looking",
+      "cat": "About",
+      "title": "What I'm looking for",
+      "meta": "Roles · location · availability",
+      "cover": {
+        "type": "quote",
+        "bg": "c-butter",
+        "ratio": "1/1",
+        "text": "Ready to learn. Ready to contribute. Ready to build."
+      },
+      "overview": [
+        "I am looking for roles in land and master-planned community development, as a development associate, or with the public agencies and consultants who shape how places grow.",
+        "I am 22 and finishing my master's degree this December, and I want to start where the work is real: on the sites, in the documents, and at the table where development decisions get made."
+      ],
+      "bullets": [
+        "Available after graduation, December 2026",
+        "Based in Houston, Texas",
+        "Hybrid roles preferred; glad to travel for the work"
+      ]
+    },
+    {
+      "id": "offclock",
+      "cat": "About",
+      "title": "Off the clock",
+      "meta": "Interests & volunteering",
+      "cover": {
+        "type": "label",
+        "bg": "c-cream c-grid",
+        "big": "Mysteries, miles & travel",
+        "small": "INTERESTS"
+      },
+      "bullets": [
+        "True crime and mystery novels",
+        "Running events",
+        "Traveling",
+        "Childhood education",
+        "Baking",
+        "Intramural basketball"
+      ],
+      "files": [],
+      "overview": []
+    },
+    {
+      "id": "resume",
+      "cat": "Credentials",
+      "title": "Resume",
+      "meta": "One page, everything here",
+      "cover": {
+        "type": "sheet",
+        "bg": "c-tan",
+        "small": "PDF"
+      },
+      "overview": [
+        "The one-page version of this board."
+      ],
+      "files": [
+        {
+          "file": "MLPD-Final-Resume.pdf",
+          "label": "Download resume"
+        }
+      ],
+      "bullets": []
+    }
+  ]
+}
